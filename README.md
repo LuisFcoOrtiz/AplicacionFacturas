@@ -15,6 +15,8 @@ Aplicación gestión de facturas practica DAM Acceso a datos
     
 *(En servidor Oracle) Disparadores para mantener controlado el stockage de los articulos cada vez que se haga una insercion o un borrado de una o varias lineas de facturas
 
+** Base de datos de Oracle esta exportada en el archivo (export.sql) **
+
 ## Algunas capturas de la aplicación
 
 ![5](https://user-images.githubusercontent.com/8844134/32909642-5bc04092-cb07-11e7-9b6c-797fc2a8de28.png)
